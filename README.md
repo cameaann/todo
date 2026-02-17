@@ -1,6 +1,6 @@
 # Frontend Mentor - Todo app solution
 
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW).
 
 ## Table of contents
 
@@ -16,7 +16,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 		- [Continued development](#continued-development)
 		- [Useful resources](#useful-resources)
 	- [Author](#author)
-	- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -73,8 +73,4 @@ In future projects, I would like to focus on using reducers for managing global 
 - Website - [Anna](https://cameaann.github.io/)
 - Frontend Mentor - [@cameaann](https://www.frontendmentor.io/profile/cameaann)
 
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
