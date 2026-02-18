@@ -1,8 +1,7 @@
 import {
   useContext,
   useState,
-  type ChangeEvent,
-  type KeyboardEvent,
+  type ChangeEvent
 } from "react";
 import { type TTask } from "../utils";
 import ThemeContext from "../ThemeContext";
